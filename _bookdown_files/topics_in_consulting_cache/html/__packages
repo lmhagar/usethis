@@ -1,11 +1,12 @@
-base
 bookdown
+htmltools
+xfun
+mime
+ggplot2
 usethis
 renv
 knitr
 MASS
-mime
-ggplot2
 RColorBrewer
 wooldridge
 corrplot

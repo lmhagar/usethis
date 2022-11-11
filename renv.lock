@@ -198,7 +198,7 @@
     },
     "TOSTER": {
       "Package": "TOSTER",
-      "Version": "0.3.4",
+      "Version": "0.4.2",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "1d3b3ed64b46840991381f68281e5a64",
@@ -1134,10 +1134,10 @@
     },
     "jmvcore": {
       "Package": "jmvcore",
-      "Version": "2.3.4",
+      "Version": "2.3.12",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "e8f5332543cdb24ea93c0b85f99418aa",
+      "Hash": "7c74792a98cea29bd6c76c029b872808",
       "Requirements": [
         "R6",
         "base64enc",
@@ -2069,10 +2069,10 @@
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.29",
+      "Version": "0.30",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "9eba2411b0b1f879797141bd24df7407",
+      "Hash": "e2e5fb1a74fbb68b27d6efc5372635dc",
       "Requirements": []
     },
     "xgboost": {

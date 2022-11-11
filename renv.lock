@@ -35,7 +35,7 @@
     },
     "bookdown": {
       "Package": "bookdown",
-      "Version": "0.30",
+      "Version": "0.29",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "495825e93c065417044a3dd5ba08b9dd",

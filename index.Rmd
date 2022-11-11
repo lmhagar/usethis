@@ -1,9 +1,47 @@
---- 
-title: "Test Book"
-author: "Luke Hagar"
+---
+title: "Topics in Statistical Consulting"
+author: |
+  | **Statistical Consulting and Collaborative Research Unit**
+  | **University of Waterloo**
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+biblio-style: apalike
+link-citations: true
+bibliography: references.bib
+output: 
+  bookdown::gitbook:
+    fig_caption: yes
+    includes:
+      in_header: preamble.html
 ---
 
-# Down the rabbit-hole
+```{r setup, include=FALSE}
+# common functions
+# contributors should be aware of these and use them whenever possible.
+source("common_functions.R")
+```
+
+# Preface {-}
+
+This book aims to give introductions to some topics in statistical consulting. We hope that this will help audiences who have light background in statistics.
+
+For contributors to this book, please refer to the Appendix for [General Guidelines], [Formatting Guidelines] and [Github tutorials][Git and GitHub: A Quick Tutorial].
+
+For questions regarding the materials of this book, please [contact us](https://uwaterloo.ca/statistical-consulting-and-collaborative-research-unit/).
+
+## Authors  {-}
+
+- Trang Bui
+- Meixi Chen
+- Luke Hagar
+- Kelly Ramsay
+- Yuliang Shi
+- Grace Tompkins
+- Feiyu Zhu
+
+## Editors {-}
+
+- Martin Lysy
+- Glen McGee
+- Joslin Goh
 

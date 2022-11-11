@@ -1,0 +1,5 @@
+Package: test-book
+Title: Test Book
+Version: 0.0.1
+Imports: bookdown, MASS
+Remotes: rstudio, bookdown

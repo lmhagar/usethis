@@ -1,2 +1,13 @@
 # The pool of tears
 
+```{r, include = FALSE}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=70),tidy=TRUE)
+library(MASS)
+```
+
+```{r}
+x <- mvrnorm(100,c(0,0),diag(2))
+plot(x[,1], x[,2])
+```
+

@@ -198,7 +198,7 @@
     },
     "TOSTER": {
       "Package": "TOSTER",
-      "Version": "0.4.2",
+      "Version": "0.3.4",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "1d3b3ed64b46840991381f68281e5a64",
@@ -1050,7 +1050,7 @@
     },
     "htmltools": {
       "Package": "htmltools",
-      "Version": "0.5.1.1",
+      "Version": "0.5.2",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "526c484233f42522278ab06fb185cb26",
@@ -2069,7 +2069,7 @@
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.22",
+      "Version": "0.29",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "9eba2411b0b1f879797141bd24df7407",

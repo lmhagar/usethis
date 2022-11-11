@@ -1,9 +1,8 @@
 # The pool of tears
 
 ```{r, include = FALSE}
-library(knitr)
-opts_chunk$set(tidy.opts=list(width.cutoff=70),tidy=TRUE)
 library(MASS)
+library(bookdown)
 ```
 
 ```{r}

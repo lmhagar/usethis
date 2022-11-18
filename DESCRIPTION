@@ -1,5 +1,5 @@
 Package: test-book
 Title: Test Book
-Version: 0.0.1
+Version: 0.0.2
 Imports: R6, base64enc, bookdown, bslib, cachem, digest, evaluate, fastmap, fs, glue, highr, htmltools, jquerylib, jsonlite, knitr, magrittr, memoise, rappdirs, rlang, rmarkdown, sass, stringi, stringr, tinytex, xfun, yaml, tidyverse, wooldridge, corrplot, lmtest, caret, PMCMRplus, dunn.test, geesmv, emdbook, coin, randomForest, boot, e1071, inTrees, DescTools, pwr, TOSTER, foreach, doParallel, doSNOW
 Remotes: rstudio, bookdown
